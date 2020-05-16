@@ -5,8 +5,11 @@
 1. Open a new circuit file on Tinkercad
 1. From the list of components, drag an Arduino UNO, LED and a resistor in the workspace.
 1. Connect the cathode of the LED to one of the ground pins of arduino.
-1. Connect the anode to one end of the resistor. Connect the other end of the resistor to a digital pin on arduino, say pin 9
+1. Connect the anode to one end of the resistor. Connect the other end of the resistor to a digital pin on arduino,     say pin 9. 1 kohm resistor is added to limit the current through the LED.
+
 *We are done with the circuit part here*
+
+![image](https://user-images.githubusercontent.com/42930138/82121578-c778b580-97ab-11ea-8924-6cf0682d9ee9.png)
 
 
 **Writing the code**
