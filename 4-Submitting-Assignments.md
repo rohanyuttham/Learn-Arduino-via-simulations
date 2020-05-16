@@ -4,3 +4,5 @@
 3. Go to the submission link and provide the link of your Assignment-X folder and the link of your tinkercad circuit
    
    Submission link- https://docs.google.com/forms/d/e/1FAIpQLSdR0hh7hZmruimALJ66PsACsFoDH0EBV9SoewtPNLfgLYKYpw/viewform?usp=sf_link
+   
+Note: The code should be well commented showing your understanding
