@@ -1,5 +1,5 @@
 # Learn-Arduino-via-simulations
-This repository acts as an ultimate guide for beginners who want to get started with learning arduino.
+This repository acts as a guide for beginners who want to get started with learning arduino.
 
 The tutorial does not requires you to have a physical arduino but you will learn about arduino through online simulations.
 
