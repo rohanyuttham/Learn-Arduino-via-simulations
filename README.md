@@ -29,6 +29,8 @@ In the end, you will have a strong hold on arduino programming:**
 
 Note: I will keep updating this website with new tutorials and assignments
 
-For suggestions and improvements in the repo contact:
-[Linkedin](https://www.linkedin.com/in/rohanyuttham/), mail at [rohanyiitdelhi@gmail.com](mailto:rohanyiitdelhi@gmail.com)
+Contributors: [Rohan Yuttham](https://www.linkedin.com/in/rohanyuttham/), [Prabudh Jangra](https://www.linkedin.com/in/prabudh-jangra-89308816a/)
+
+For suggestions and improvements in the repo:
+mail at [rohanyiitdelhi@gmail.com](mailto:rohanyiitdelhi@gmail.com)
 
