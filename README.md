@@ -9,6 +9,8 @@ The same learning can be replicated on a physical arduino too.
 
 *Before proceeding, [here's](https://rohanyuttham.github.io/Learn-Arduino-via-simulations/04-Submitting-Assignments.html ) how you can submit the assignments*
 
+*For any query, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfEeNwT1TOU11uW3B6xJWSpR3H-p6GsTZA7GbSdA5IsVOgl8g/viewform?usp=sf_link). The **[discussion page](https://rohanyuttham.github.io/Learn-Arduino-via-simulations/0-Discussion-Forum.html)** will be updated with with resolutions to your query.*
+
 **Go through the tutorial in the serial order.
 In the end, you will have a strong hold on arduino programming:**
 1. [Getting familiar with Arduino UNO Board](https://rohanyuttham.github.io/Learn-Arduino-via-simulations/01-Getting-familiar-with-arduino-uno.html )
