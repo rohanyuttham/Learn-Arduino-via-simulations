@@ -5,16 +5,17 @@
 2. Search for a push button and connect to the arduino as shown below: 
    A push button has 4 terminals
    ![image](https://user-images.githubusercontent.com/42930138/82129707-3ffa6900-97e2-11ea-8098-6adf19155678.png)
-Working: When the button is unpressed, the side terminals are connected vertically(See above image)
-         When the button is pressed, all 4 terminals get interconnected.
-         Focus on the right side of the above image- In the off state, pin 2 of arduino is connected to the ground.
-         Whereas in the on state, current flows from 5V of arduino to the pin3.
-         Notice that due to high resistance connected on the other branch, current does not flow that side.
+Working: 
+* When the button is unpressed, the side terminals are connected vertically(See above image)
+* When the button is pressed, all 4 terminals get interconnected.
+* Now, Focus on the right side of the above image- 
+    * In the off state, pin 3 of arduino is connected to the ground pin through green+black wire.
+    * Whereas in the on state, current flows from 5V of arduino passing via red wire, crossing the switch, then to the pin3. Notice that due to high resistance connected on the other branch, current does not flow that side.
          
-The conclusion is, the above circuit sends a LOW signal to pin3, when button is unpressed and a HIGH signal when the button is pressed.
+*The conclusion is, the above circuit sends a LOW signal to pin3, when button is unpressed and a HIGH signal when the button is pressed.*
 
-About **digitalRead()** function: Remember that the digitalWrite function was used to send a HIGH or LOW signal to a digital pin.
-                                  The digitalRead() function is its opposite. It reads whether the signal on a digital pin is HIGH or LOW.
+About **digitalRead()** function: Remember that the digitalWrite function was used to **send** a HIGH or LOW signal to a digital pin.
+                                  The digitalRead() function is its opposite. It **receives**(reads) whether the signal coming on a digital pin is HIGH or LOW.
                                   
 **Code**:
 ```C++
