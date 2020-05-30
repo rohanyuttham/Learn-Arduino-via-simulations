@@ -19,7 +19,7 @@ For other components used, you may refer to the following slide made by Robotics
     1. Connect Vcc to 5V of arduino
     1. Connect GND to ground of arduino
     1. Connect SIG(Signal pin) to any of the digital pin of arduino
-1. The connections of other electronics are already covered in the previous tutorial: [DC Motor Speed Control](https://github.com/rohanyuttham/Learn-Arduino-via-simulations/blob/master/13-Speed-Control-of-DC-Motor-L298.md)
+1. The connections of other electronics are already covered in the previous tutorial: [DC Motor Speed Control](https://rohanyuttham.github.io/Learn-Arduino-via-simulations/13-Speed-Control-of-DC-Motor-L298.html)
 
 **Concept:**
 1. When both left and right sensor senses white then robot move forward.(Both wheels move with same speed) ![image](https://user-images.githubusercontent.com/42930138/82198585-265c3d00-991a-11ea-9fd1-d7c7e4c78e41.png)
