@@ -1,6 +1,5 @@
-# Learn Arduino via simulations 
 
-## Visit My Home Page:<div style="text-align: left"> <a href="https://rohanyuttham.github.io/">Rohan Yuttham</a> </div> 
+## Home Page: <a href="https://rohanyuttham.github.io/">Rohan Yuttham</a>  
 
 A beginners guide to arduino simulations
 ---
