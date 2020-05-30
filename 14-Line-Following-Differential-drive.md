@@ -22,8 +22,8 @@ For other components used, you may refer to the following slide made by Robotics
 1. The connections of other electronics are already covered in the previous tutorial: [DC Motor Speed Control](https://github.com/rohanyuttham/Learn-Arduino-via-simulations/blob/master/13-Speed-Control-of-DC-Motor-L298.md)
 
 **Concept:**
-1. When both left and right sensor senses white then robot move forward. ![image](https://user-images.githubusercontent.com/42930138/82198585-265c3d00-991a-11ea-9fd1-d7c7e4c78e41.png)
-1. If left sensor comes on black line then robot turn left side. ![image](https://user-images.githubusercontent.com/42930138/82198684-455acf00-991a-11ea-8172-22b0a684228c.png)
+1. When both left and right sensor senses white then robot move forward.(Both wheels move with same speed) ![image](https://user-images.githubusercontent.com/42930138/82198585-265c3d00-991a-11ea-9fd1-d7c7e4c78e41.png)
+1. If left sensor comes on black line then robot turn left side.(speed of right wheel will be more than speed of left wheel) ![image](https://user-images.githubusercontent.com/42930138/82198684-455acf00-991a-11ea-8172-22b0a684228c.png)
 1. If right sensor sense black line then robot turn right side until both sensor comes at white surface. When white surface comes robot starts moving on forward again. ![image](https://user-images.githubusercontent.com/42930138/82198750-63283400-991a-11ea-8f89-a323364ef713.png)
 1. If both sensors comes on black line, robot stops. 
 
