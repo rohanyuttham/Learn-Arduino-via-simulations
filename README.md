@@ -19,6 +19,7 @@ In the end, you will have a strong hold on arduino programming:**
 1. [Assignment 1](https://rohanyuttham.github.io/Learn-Arduino-via-simulations/03-helloworld-of-arduino.html): LED blink using millis()
 1. [Using Push Button with Arduino](https://rohanyuttham.github.io/Learn-Arduino-via-simulations/07-Push-Button-with-arduino.html)
 1. [Assignment 2](https://rohanyuttham.github.io/Learn-Arduino-via-simulations/08-Assignment2.html): Application of push button
+1. [Switches with Arduino](https://rohanyuttham.github.io/Learn-Arduino-via-simulations/071-Switches.html)
 1. [Ultrasonic sensor and Arduino](https://rohanyuttham.github.io/Learn-Arduino-via-simulations/09-Ultrasonic-senor-with-arduino.html)
 1. [Servo Motor and Arduino](https://rohanyuttham.github.io/Learn-Arduino-via-simulations/10-Servo-motor.html)
 1. [Assignment 3](https://rohanyuttham.github.io/Learn-Arduino-via-simulations/11-Assignment3.html)
