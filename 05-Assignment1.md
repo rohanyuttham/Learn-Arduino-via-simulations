@@ -5,6 +5,6 @@
 
 millis() function can be manipulated to use in place of a delay().
 
-Your task is to read about millis() here: https://www.arduino.cc/reference/en/language/functions/time/millis/
+Your task is to read about millis() [here](https://www.arduino.cc/reference/en/language/functions/time/millis/).
 
-Then, write a code for an LED blink using millis() and not delay()
+Then, write a code for an LED blink using millis() and not delay().
