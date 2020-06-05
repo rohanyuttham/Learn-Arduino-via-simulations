@@ -16,7 +16,7 @@ In the end, you will have a strong hold on arduino programming:**
 1. [Getting familiar with Arduino UNO Board](https://rohanyuttham.github.io/Learn-Arduino-via-simulations/01-Getting-familiar-with-arduino-uno.html )
 1. [Getting familiar with TinkerCad](https://rohanyuttham.github.io/Learn-Arduino-via-simulations/02-get-familiar-with-tinkercad.html)
 1. [Hello World of Arduino](https://rohanyuttham.github.io/Learn-Arduino-via-simulations/03-helloworld-of-arduino.html): LED blink is commonly considered as the HelloWorld of Arduino Programming
-1. [Assignment 1](https://rohanyuttham.github.io/Learn-Arduino-via-simulations/03-helloworld-of-arduino.html): LED blink using millis()
+1. [Assignment 1](https://rohanyuttham.github.io/Learn-Arduino-via-simulations/05-Assignment1.html): LED blink using millis()
 1. [Using Push Button with Arduino](https://rohanyuttham.github.io/Learn-Arduino-via-simulations/07-Push-Button-with-arduino.html)
 1. [Assignment 2](https://rohanyuttham.github.io/Learn-Arduino-via-simulations/08-Assignment2.html): Application of push button
 1. [Switches with Arduino](https://rohanyuttham.github.io/Learn-Arduino-via-simulations/071-Switches.html)
